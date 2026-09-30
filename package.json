@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "echo 'Backend ready'"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
